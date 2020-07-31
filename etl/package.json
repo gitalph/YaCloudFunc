@@ -1,0 +1,16 @@
+{
+  "name": "etl",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.5.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0"
+  },
+  "dependencies": {
+    "mongodb": "^3.6.0"
+  }
+}
